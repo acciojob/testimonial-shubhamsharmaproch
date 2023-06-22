@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.test {
+	border:3px solid #f5f5f5;
+	margin:12px 12px;
+	width:880px;
+	padding:5px;
+	height:60px;
+	background:white;
+}
+#pa {
+/* 	border:1px solid black;; */
+    text-align:right;
+/* 	padding:1px 1px; */
+	margin:-4px 4px;
+	background-color:white;
+}
+.testi {
+	background:#f5f5f5;
+	border:1px solid black;
+	width:970px;
+	padding:30px;
+	height:300px;
+}
+}
